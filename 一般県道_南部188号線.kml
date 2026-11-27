@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>一般県道_南部188号線</name>
+    <Placemark>
+      <name>一般県道_南部188号線</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>127.141086,26.3719512,0 127.1407959,26.3720475,0</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

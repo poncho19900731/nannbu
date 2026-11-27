@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>一般県道_南部175号線</name>
+    <Placemark>
+      <name>一般県道_南部175号線</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>126.7535964,26.3410794,0 126.7536836,26.3412436,0 126.7537086,26.3412926,0 126.7537513,26.3413743,0 126.7537958,26.341458,0 126.7538674,26.341593,0 126.753999,26.3418782,0 126.7540458,26.3420487,0 126.7541059,26.3422673,0 126.7541216,26.3423245,0</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
